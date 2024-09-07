@@ -1,0 +1,17 @@
+user name and password for the admin to login
+
+----------------------------------------------
+username = admin, pass = admin123 
+----------------------------------------------
+
+group members
+
+==================
+ABENEZER TEWODROS
+AYANI WORKU 
+BIRHAN GIZACHEW
+DEBERE KUMELA
+HANA ZEKARYAS
+TILAYE BELAYNEH
+===================
+
